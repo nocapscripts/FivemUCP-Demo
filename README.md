@@ -128,33 +128,6 @@ Built with a premium RP-server style:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the project
-2. Create a branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push
-
-```bash
-git push origin feature/new-feature
-```
-
-5. Create Pull Request
-
-
----
 
 # ⭐ Support
 
