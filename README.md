@@ -101,94 +101,16 @@ Built with a premium RP-server style:
 
 | Technology | Usage |
 |-|-|
-| Next.js | React Framework |
 | TypeScript | Type Safety |
 | TailwindCSS | Styling |
 | React | UI Components |
 
-## Backend
 
-| Technology | Usage |
-|-|-|
-| Next.js API Routes | Backend API |
-| Prisma | Database ORM |
-| MySQL | Database |
-| NextAuth | Authentication |
 
----
 
-# 📦 Installation
 
-Clone repository:
 
-```bash
-git clone https://github.com/yourusername/FivemUCP-Demo.git
 
-cd FivemUCP-Demo
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Create environment file:
-
-```env
-DATABASE_URL="mysql://username:password@host:3306/database"
-
-NEXTAUTH_URL="http://localhost:3000"
-
-NEXTAUTH_SECRET="your-secret-key"
-```
-
-Run database:
-
-```bash
-npx prisma generate
-
-npx prisma db push
-```
-
-Start development server:
-
-```bash
-npm run dev
-```
-
-Open:
-
-```
-http://localhost:3000
-```
-
----
-
-# 📁 Project Structure
-
-```
-FivemUCP-Demo
-│
-├── app
-│   ├── dashboard
-│   ├── login
-│   └── api
-│
-├── components
-│   ├── ui
-│   └── dashboard
-│
-├── prisma
-│   └── schema.prisma
-│
-├── public
-│
-└── data
-    └── whitelist.json
-```
-
----
 
 # 🔮 Roadmap
 
