@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>A modern FiveM User Control Panel built for ESX servers.</b><br>
+  <b>A modern FiveM User Control Panel built for fivem Servers.</b><br>
   Manage players, characters, applications and server data through a beautiful web interface.
 </p>
 
